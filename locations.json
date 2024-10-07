@@ -1,0 +1,14 @@
+{
+    "Budapest": {
+        "latitude" : 47.4984,
+        "longitude": 19.0404
+    },
+    "Szeged": {
+        "latitude" : 46.253,
+        "longitude": 20.1482
+    },
+    "Zamárdi": {
+        "latitude" : 46.8849,
+        "longitude": 17.9537
+    }
+}
